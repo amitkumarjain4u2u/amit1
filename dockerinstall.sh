@@ -5,4 +5,5 @@ sudo systemctl status docker
 sudo systemctl enable docker
 docker images
 docker ps -a
-
+sudo systemctl status docker
+banner "Docker is running"
