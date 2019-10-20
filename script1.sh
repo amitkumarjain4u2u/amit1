@@ -153,3 +153,8 @@ yum install textedit -y
 yum install sublime -y
 yum install sublimetext -y
 yum install banner -y
+yum install svn -y
+yum install toroise -y
+yum install svntortoise -y
+yum install vpn -y
+
