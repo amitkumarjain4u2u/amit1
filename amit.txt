@@ -1,0 +1,1036 @@
+ nstall vnstat -y
+yum install iftop -y
+yum install nload -y
+yum install nethogs -y
+yum install bmon -y
+yum install darkstat -y
+yum install iptraf -y
+yum install cbm -y
+yum install iperf3 -y
+yum install Netperf -y
+yum install netperf -y
+yum install sarg -y
+yum install monitorix -y
+yum install cacti -y
+yum install observium -y
+yum install zabbix -y
+yum install nagios -y
+yum install nload -y
+yum install nethogs -y
+yum install bmon -y
+yum install darkstat -y
+yum install Netperf -y
+yum install netperf -y
+yum install sarg -y
+yum install monitorix -y
+yum install cacti -y
+yum install observium -y
+yum install zabbix -y
+yum install nagios -y
+yum install terraform -y
+yum install iptraf -y
+yum install cbm -y
+yum install iperf3 -y
+yum install terraform -y
+4855   * updates: centos.excellmedia.net
+yum install iftop -y
+ 4856  Package mlocate-0.26-8.el7.x86_64 already installed and latest version
+ 4857  Nothing to do
+yum install vnstat -y
+ 4858  Loaded plugins: fastestmirror, langpacks
+ 4859  Loading mirror speeds from cached hostfile
+ 4860   * base: centos.excellmedia.net
+ 4861   * epel: repos.del.extreme-ix.org
+ 4862   * extras: centos.excellmedia.net
+ 4863   * updates: centos.excellmedia.net
+ 4864  No package repolist available.
+ 4865  No package all available.
+ 4866  Error: Nothing to do
+ 4867  Loaded plugins: fastestmirror, langpacks
+ 4868  Loading mirror speeds from cached hostfile
+ 4869   * base: centos.excellmedia.net
+ 4870   * epel: repos.del.extreme-ix.org
+ 4871   * extras: centos.excellmedia.net
+ 4872   * updates: centos.excellmedia.net
+ 4873  No package repolist available.
+ 4874  Error: Nothing to do
+ 4875  Loaded plugins: fastestmirror, langpacks
+ 4876  Loading mirror speeds from cached hostfile
+ 4877   * base: centos.excellmedia.net
+ 4878   * epel: repos.del.extreme-ix.org
+ 4879   * extras: centos.excellmedia.net
+ 4880   * updates: centos.excellmedia.net
+ 4881  repo id                            repo name                     status
+ 4882  C7.0.1406-base/x86_64              CentOS-7.0.1406 - Base        disabled
+ 4883  C7.0.1406-centosplus/x86_64        CentOS-7.0.1406 - CentOSPlus  disabled
+ 4884  C7.0.1406-extras/x86_64            CentOS-7.0.1406 - Extras      disabled
+ 4885  C7.0.1406-fasttrack/x86_64         CentOS-7.0.1406 - Fasttrack   disabled
+ 4886  C7.0.1406-updates/x86_64           CentOS-7.0.1406 - Updates     disabled
+ 4887  C7.1.1503-base/x86_64              CentOS-7.1.1503 - Base        disabled
+ 4888  C7.1.1503-centosplus/x86_64        CentOS-7.1.1503 - CentOSPlus  disabled
+ 4889  C7.1.1503-extras/x86_64            CentOS-7.1.1503 - Extras      disabled
+ 4890  C7.1.1503-fasttrack/x86_64         CentOS-7.1.1503 - Fasttrack   disabled
+ 4891  C7.1.1503-updates/x86_64           CentOS-7.1.1503 - Updates     disabled
+ 4892  C7.2.1511-base/x86_64              CentOS-7.2.1511 - Base        disabled
+ 4893  C7.2.1511-centosplus/x86_64        CentOS-7.2.1511 - CentOSPlus  disabled
+ 4894  C7.2.1511-extras/x86_64            CentOS-7.2.1511 - Extras      disabled
+ 4895  C7.2.1511-fasttrack/x86_64         CentOS-7.2.1511 - Fasttrack   disabled
+ 4896  C7.2.1511-updates/x86_64           CentOS-7.2.1511 - Updates     disabled
+ 4897  C7.3.1611-base/x86_64              CentOS-7.3.1611 - Base        disabled
+ 4898  C7.3.1611-centosplus/x86_64        CentOS-7.3.1611 - CentOSPlus  disabled
+ 4899  C7.3.1611-extras/x86_64            CentOS-7.3.1611 - Extras      disabled
+ 4900  C7.3.1611-fasttrack/x86_64         CentOS-7.3.1611 - Fasttrack   disabled
+ 4901  C7.3.1611-updates/x86_64           CentOS-7.3.1611 - Updates     disabled
+ 4902  C7.4.1708-base/x86_64              CentOS-7.4.1708 - Base        disabled
+ 4903  C7.4.1708-centosplus/x86_64        CentOS-7.4.1708 - CentOSPlus  disabled
+ 4904  C7.4.1708-extras/x86_64            CentOS-7.4.1708 - Extras      disabled
+ 4905  C7.4.1708-fasttrack/x86_64         CentOS-7.4.1708 - Fasttrack   disabled
+ 4906  C7.4.1708-updates/x86_64           CentOS-7.4.1708 - Updates     disabled
+ 4907  C7.5.1804-base/x86_64              CentOS-7.5.1804 - Base        disabled
+ 4908  C7.5.1804-centosplus/x86_64        CentOS-7.5.1804 - CentOSPlus  disabled
+ 4909  C7.5.1804-extras/x86_64            CentOS-7.5.1804 - Extras      disabled
+ 4910  C7.5.1804-fasttrack/x86_64         CentOS-7.5.1804 - Fasttrack   disabled
+ 4911  C7.5.1804-updates/x86_64           CentOS-7.5.1804 - Updates     disabled
+ 4912  C7.6.1810-base/x86_64              CentOS-7.6.1810 - Base        disabled
+ 4913  C7.6.1810-centosplus/x86_64        CentOS-7.6.1810 - CentOSPlus  disabled
+ 4914  C7.6.1810-extras/x86_64            CentOS-7.6.1810 - Extras      disabled
+ 4915  C7.6.1810-fasttrack/x86_64         CentOS-7.6.1810 - Fasttrack   disabled
+ 4916  C7.6.1810-updates/x86_64           CentOS-7.6.1810 - Updates     disabled
+ 4917  base/7/x86_64                      CentOS-7 - Base               enabled: 10,097
+ 4918  base-debuginfo/x86_64              CentOS-7 - Debuginfo          disabled
+ 4919  base-source/7                      CentOS-7 - Base Sources       disabled
+ 4920  c7-media                           CentOS-7 - Media              disabled
+ 4921  centosplus/7/x86_64                CentOS-7 - Plus               disabled
+ 4922  centosplus-source/7                CentOS-7 - Plus Sources       disabled
+ 4923  cr/7/x86_64                        CentOS-7 - cr                 disabled
+ 4924  docker-ce-edge/x86_64              Docker CE Edge - x86_64       disabled
+ 4925  docker-ce-edge-debuginfo/x86_64    Docker CE Edge - Debuginfo x8 disabled
+ 4926  docker-ce-edge-source              Docker CE Edge - Sources      disabled
+ 4927  docker-ce-nightly/x86_64           Docker CE Nightly - x86_64    disabled
+ 4928  docker-ce-nightly-debuginfo/x86_64 Docker CE Nightly - Debuginfo disabled
+ 4929  docker-ce-nightly-source           Docker CE Nightly - Sources   disabled
+ 4930  docker-ce-stable/x86_64            Docker CE Stable - x86_64     enabled:     61
+ 4931  docker-ce-stable-debuginfo/x86_64  Docker CE Stable - Debuginfo  disabled
+ 4932  docker-ce-stable-source            Docker CE Stable - Sources    disabled
+ 4933  docker-ce-test/x86_64              Docker CE Test - x86_64       enabled:    192
+ 4934  docker-ce-test-debuginfo/x86_64    Docker CE Test - Debuginfo x8 disabled
+ 4935  docker-ce-test-source              Docker CE Test - Sources      disabled
+ 4936  epel/x86_64                        Extra Packages for Enterprise enabled: 13,411
+ 4937  epel-debuginfo/x86_64              Extra Packages for Enterprise disabled
+ 4938  epel-source/x86_64                 Extra Packages for Enterprise disabled
+ 4939  epel-testing/x86_64                Extra Packages for Enterprise disabled
+ 4940  epel-testing-debuginfo/x86_64      Extra Packages for Enterprise disabled
+ 4941  epel-testing-source/x86_64         Extra Packages for Enterprise disabled
+ 4942  extras/7/x86_64                    CentOS-7 - Extras             enabled:    304
+ 4943  extras-source/7                    CentOS-7 - Extras Sources     disabled
+ 4944  fasttrack/7/x86_64                 CentOS-7 - fasttrack          disabled
+ 4945  updates/7/x86_64                   CentOS-7 - Updates            enabled:    332
+ 4946  updates-source/7                   CentOS-7 - Updates Sources    disabled
+ 4947  repolist: 24,397
+ 4948  Loaded plugins: fastestmirror, langpacks
+ 4949  Loading mirror speeds from cached hostfile
+ 4950   * base: centos.excellmedia.net
+ 4951   * epel: repos.del.extreme-ix.org
+ 4952   * extras: centos.excellmedia.net
+ 4953   * updates: centos.excellmedia.net
+ 4954  Package 1:java-1.8.0-openjdk-1.8.0.222.b10-1.el7_7.x86_64 already installed and latest version
+ 4955  Nothing to do
+ 4956  Loaded plugins: fastestmirror, langpacks
+ 4957  Loading mirror speeds from cached hostfile
+ 4958   * base: centos.excellmedia.net
+ 4959   * epel: repos.del.extreme-ix.org
+ 4960   * extras: centos.excellmedia.net
+ 4961   * updates: centos.excellmedia.net
+ 4962  Package 4:perl-5.16.3-294.el7_6.x86_64 already installed and latest version
+ 4963  Nothing to do
+ 4964  Loaded plugins: fastestmirror, langpacks
+ 4965  Loading mirror speeds from cached hostfile
+ 4966   * base: centos.excellmedia.net
+ 4967   * epel: repos.del.extreme-ix.org
+ 4968   * extras: centos.excellmedia.net
+ 4969   * updates: centos.excellmedia.net
+ 4970  Package curl-7.29.0-54.el7.x86_64 already installed and latest version
+ 4971  Nothing to do
+ 4972  Loaded plugins: fastestmirror, langpacks
+ 4973  Loading mirror speeds from cached hostfile
+ 4974   * base: centos.excellmedia.net
+ 4975   * epel: repos.del.extreme-ix.org
+ 4976   * extras: centos.excellmedia.net
+ 4977   * updates: centos.excellmedia.net
+ 4978  No package jenkins available.
+ 4979  Error: Nothing to do
+ 4980  Loaded plugins: fastestmirror, langpacks
+ 4981  Loading mirror speeds from cached hostfile
+ 4982   * base: centos.excellmedia.net
+ 4983   * epel: repos.del.extreme-ix.org
+ 4984   * extras: centos.excellmedia.net
+ 4985   * updates: centos.excellmedia.net
+ 4986  Package python-2.7.5-86.el7.x86_64 already installed and latest version
+ 4987  Nothing to do
+ 4988  Loaded plugins: fastestmirror, langpacks
+ 4989  Loading mirror speeds from cached hostfile
+ 4990   * base: centos.excellmedia.net
+ 4991   * epel: repos.del.extreme-ix.org
+ 4992   * extras: centos.excellmedia.net
+ 4993   * updates: centos.excellmedia.net
+ 4994  Resolving Dependencies
+ 4995  --> Running transaction check
+ 4996  ---> Package docker.x86_64 2:1.13.1-103.git7f2769b.el7.centos will be installed
+ 4997  --> Processing Dependency: docker-common = 2:1.13.1-103.git7f2769b.el7.centos for package: 2:docker-1.13.1-103.git7f2769b.el7.centos.x86_64
+ 4998  --> Processing Dependency: docker-client = 2:1.13.1-103.git7f2769b.el7.centos for package: 2:docker-1.13.1-103.git7f2769b.el7.centos.x86_64
+ 4999  --> Running transaction check
+ 5000  ---> Package docker-client.x86_64 2:1.13.1-103.git7f2769b.el7.centos will be installed
+ 5001  ---> Package docker-common.x86_64 2:1.13.1-103.git7f2769b.el7.centos will be installed
+ 5002  --> Processing Conflict: 3:docker-ce-19.03.4-3.el7.x86_64 conflicts docker
+ 5003  --> Processing Conflict: 3:docker-ce-19.03.4-3.el7.x86_64 conflicts docker-io
+ 5004  --> Processing Conflict: 1:docker-ce-cli-19.03.4-3.el7.x86_64 conflicts docker
+ 5005  --> Processing Conflict: 1:docker-ce-cli-19.03.4-3.el7.x86_64 conflicts docker-io
+ 5006  --> Finished Dependency Resolution
+ 5007  Error: docker-ce-cli conflicts with 2:docker-1.13.1-103.git7f2769b.el7.centos.x86_64
+ 5008  Error: docker-ce conflicts with 2:docker-1.13.1-103.git7f2769b.el7.centos.x86_64
+ 5009   You could try using --skip-broken to work around the problem
+ 5010   You could try running: rpm -Va --nofiles --nodigest
+ 5011  Loaded plugins: fastestmirror, langpacks
+ 5012  Loading mirror speeds from cached hostfile
+ 5013   * base: centos.excellmedia.net
+ 5014   * epel: repos.del.extreme-ix.org
+ 5015   * extras: centos.excellmedia.net
+ 5016   * updates: centos.excellmedia.net
+ 5017  No package yaml available.
+ 5018  Error: Nothing to do
+ 5019  Loaded plugins: fastestmirror, langpacks
+ 5020  Loading mirror speeds from cached hostfile
+ 5021   * base: centos.excellmedia.net
+ 5022   * epel: repos.del.extreme-ix.org
+ 5023   * extras: centos.excellmedia.net
+ 5024   * updates: centos.excellmedia.net
+ 5025  Package httpd-2.4.6-90.el7.centos.x86_64 already installed and latest version
+ 5026  Nothing to do
+ 5027  Loaded plugins: fastestmirror, langpacks
+ 5028  Loading mirror speeds from cached hostfile
+ 5029   * base: centos.excellmedia.net
+ 5030   * epel: repos.del.extreme-ix.org
+ 5031   * extras: centos.excellmedia.net
+ 5032   * updates: centos.excellmedia.net
+ 5033  No package sshd available.
+ 5034  Error: Nothing to do
+ 5035  Loaded plugins: fastestmirror, langpacks
+ 5036  Loading mirror speeds from cached hostfile
+ 5037   * base: centos.excellmedia.net
+ 5038   * epel: repos.del.extreme-ix.org
+ 5039   * extras: centos.excellmedia.net
+ 5040   * updates: centos.excellmedia.net
+ 5041  Package ruby-2.0.0.648-36.el7.x86_64 already installed and latest version
+ 5042  Nothing to do
+ 5043  Loaded plugins: fastestmirror, langpacks
+ 5044  Loading mirror speeds from cached hostfile
+ 5045   * base: centos.excellmedia.net
+ 5046   * epel: repos.del.extreme-ix.org
+ 5047   * extras: centos.excellmedia.net
+ 5048   * updates: centos.excellmedia.net
+ 5049  Package 2:vim-enhanced-7.4.629-6.el7.x86_64 already installed and latest version
+ 5050  Nothing to do
+ 5051  Loaded plugins: fastestmirror, langpacks
+ 5052  Loading mirror speeds from cached hostfile
+ 5053   * base: centos.excellmedia.net
+ 5054   * epel: repos.del.extreme-ix.org
+ 5055   * extras: centos.excellmedia.net
+ 5056   * updates: centos.excellmedia.net
+ 5057  Package zip-3.0-11.el7.x86_64 already installed and latest version
+ 5058  Nothing to do
+ 5059  Loaded plugins: fastestmirror, langpacks
+ 5060  Loading mirror speeds from cached hostfile
+ 5061   * base: centos.excellmedia.net
+ 5062   * epel: repos.del.extreme-ix.org
+ 5063   * extras: centos.excellmedia.net
+ 5064   * updates: centos.excellmedia.net
+ 5065  No package gunzip available.
+ 5066  Error: Nothing to do
+ 5067  Loaded plugins: fastestmirror, langpacks
+ 5068  Loading mirror speeds from cached hostfile
+ 5069   * base: centos.excellmedia.net
+ 5070   * epel: repos.del.extreme-ix.org
+ 5071   * extras: centos.excellmedia.net
+ 5072   * updates: centos.excellmedia.net
+ 5073  Package 2:tar-1.26-35.el7.x86_64 already installed and latest version
+ 5074  Nothing to do
+ 5075  Loaded plugins: fastestmirror, langpacks
+ 5076  Loading mirror speeds from cached hostfile
+ 5077   * base: centos.excellmedia.net
+ 5078   * epel: repos.del.extreme-ix.org
+ 5079   * extras: centos.excellmedia.net
+ 5080   * updates: centos.excellmedia.net
+ 5081  Package unzip-6.0-20.el7.x86_64 already installed and latest version
+ 5082  Nothing to do
+ 5083  Loaded plugins: fastestmirror, langpacks
+ 5084  Loading mirror speeds from cached hostfile
+ 5085   * base: centos.excellmedia.net
+ 5086   * epel: repos.del.extreme-ix.org
+ 5087   * extras: centos.excellmedia.net
+ 5088   * updates: centos.excellmedia.net
+ 5089  Package cpp-4.8.5-39.el7.x86_64 already installed and latest version
+ 5090  Nothing to do
+ 5091  Loaded plugins: fastestmirror, langpacks
+ 5092  Loading mirror speeds from cached hostfile
+ 5093   * base: centos.excellmedia.net
+ 5094   * epel: repos.del.extreme-ix.org
+ 5095   * extras: centos.excellmedia.net
+ 5096   * updates: centos.excellmedia.net
+ 5097  No package langpacks available.
+ 5098  Error: Nothing to do
+ 5099  Loaded plugins: fastestmirror, langpacks
+ 5100  Loading mirror speeds from cached hostfile
+ 5101   * base: centos.excellmedia.net
+ 5102   * epel: repos.del.extreme-ix.org
+ 5103   * extras: centos.excellmedia.net
+ 5104   * updates: centos.excellmedia.net
+ 5105  Package wget-1.14-18.el7_6.1.x86_64 already installed and latest version
+ 5106  Nothing to do
+ 5107  Loaded plugins: fastestmirror, langpacks
+ 5108  Loading mirror speeds from cached hostfile
+ 5109   * base: centos.excellmedia.net
+ 5110   * epel: repos.del.extreme-ix.org
+ 5111   * extras: centos.excellmedia.net
+ 5112   * updates: centos.excellmedia.net
+ 5113  Package zip-3.0-11.el7.x86_64 already installed and latest version
+ 5114  Nothing to do
+ 5115  Loaded plugins: fastestmirror, langpacks
+ 5116  Loading mirror speeds from cached hostfile
+ 5117   * base: centos.excellmedia.net
+ 5118   * epel: repos.del.extreme-ix.org
+ 5119   * extras: centos.excellmedia.net
+ 5120   * updates: centos.excellmedia.net
+ 5121  Package 2:tar-1.26-35.el7.x86_64 already installed and latest version
+ 5122  Nothing to do
+ 5123  Loaded plugins: fastestmirror, langpacks
+ 5124  Loading mirror speeds from cached hostfile
+ 5125   * base: centos.excellmedia.net
+ 5126   * epel: repos.del.extreme-ix.org
+ 5127   * extras: centos.excellmedia.net
+ 5128   * updates: centos.excellmedia.net
+ 5129  No package gunzip available.
+ 5130  Error: Nothing to do
+ 5131  Loaded plugins: fastestmirror, langpacks
+ 5132  Loading mirror speeds from cached hostfile
+ 5133   * base: centos.excellmedia.net
+ 5134   * epel: repos.del.extreme-ix.org
+ 5135   * extras: centos.excellmedia.net
+ 5136   * updates: centos.excellmedia.net
+ 5137  Package gzip-1.5-10.el7.x86_64 already installed and latest version
+ 5138  Nothing to do
+ 5139  Loaded plugins: fastestmirror, langpacks
+ 5140  Loading mirror speeds from cached hostfile
+ 5141   * base: centos.excellmedia.net
+ 5142   * epel: repos.del.extreme-ix.org
+ 5143   * extras: centos.excellmedia.net
+ 5144   * updates: centos.excellmedia.net
+ 5145  Package unzip-6.0-20.el7.x86_64 already installed and latest version
+ 5146  Nothing to do
+ 5147  Loaded plugins: fastestmirror, langpacks
+ 5148  Loading mirror speeds from cached hostfile
+ 5149   * base: centos.excellmedia.net
+ 5150   * epel: repos.del.extreme-ix.org
+ 5151   * extras: centos.excellmedia.net
+ 5152   * updates: centos.excellmedia.net
+ 5153  Package ansible-2.8.5-1.el7.noarch already installed and latest version
+ 5154  Nothing to do
+ 5155  Loaded plugins: fastestmirror, langpacks
+ 5156  Loading mirror speeds from cached hostfile
+ 5157   * base: centos.excellmedia.net
+ 5158   * epel: repos.del.extreme-ix.org
+ 5159   * extras: centos.excellmedia.net
+ 5160   * updates: centos.excellmedia.net
+ 5161  Package wireshark-1.10.14-16.el7.x86_64 already installed and latest version
+ 5162  Nothing to do
+ 5163  Loaded plugins: fastestmirror, langpacks
+ 5164  Loading mirror speeds from cached hostfile
+ 5165   * base: centos.excellmedia.net
+ 5166   * epel: repos.del.extreme-ix.org
+ 5167   * extras: centos.excellmedia.net
+ 5168   * updates: centos.excellmedia.net
+ 5169  Package 2:gedit-3.28.1-1.el7.x86_64 already installed and latest version
+ 5170  Nothing to do
+ 5171  Loaded plugins: fastestmirror, langpacks
+ 5172  Loading mirror speeds from cached hostfile
+ 5173   * base: centos.excellmedia.net
+ 5174   * epel: repos.del.extreme-ix.org
+ 5175   * extras: centos.excellmedia.net
+ 5176   * updates: centos.excellmedia.net
+ 5177  No package gpedit available.
+ 5178  Error: Nothing to do
+ 5179  Loaded plugins: fastestmirror, langpacks
+ 5180  Loading mirror speeds from cached hostfile
+ 5181   * base: centos.excellmedia.net
+ 5182   * epel: repos.del.extreme-ix.org
+ 5183   * extras: centos.excellmedia.net
+ 5184   * updates: centos.excellmedia.net
+ 5185  No package edit available.
+ 5186  Error: Nothing to do
+ 5187  Loaded plugins: fastestmirror, langpacks
+ 5188  Loading mirror speeds from cached hostfile
+ 5189   * base: centos.excellmedia.net
+ 5190   * epel: repos.del.extreme-ix.org
+ 5191   * extras: centos.excellmedia.net
+ 5192   * updates: centos.excellmedia.net
+ 5193  No package get available.
+ 5194  Error: Nothing to do
+ 5195  Loaded plugins: fastestmirror, langpacks
+ 5196  Error: Need a group or list of groups
+ 5197   Mini usage:
+ 5198  install PACKAGE...
+ 5199  Install a package or packages on your system
+ 5200  aliases: install-n, install-na, install-nevra
+ 5201  Loaded plugins: fastestmirror, langpacks
+ 5202  Loading mirror speeds from cached hostfile
+ 5203   * base: centos.excellmedia.net
+ 5204   * epel: repos.del.extreme-ix.org
+ 5205   * extras: centos.excellmedia.net
+ 5206   * updates: centos.excellmedia.net
+ 5207  Package fontconfig-2.13.0-4.3.el7.x86_64 already installed and latest version
+ 5208  Package freetype-2.8-14.el7.x86_64 already installed and latest version
+ 5209  Package urw-fonts-2.4-16.el7.noarch is obsoleted by urw-base35-fonts-20170801-10.el7.noarch which is already installed
+ 5210  Package yum-langpacks-0.4.2-7.el7.noarch already installed and latest version
+ 5211  Nothing to do
+ 5212  Loaded plugins: fastestmirror, langpacks
+ 5213  Loading mirror speeds from cached hostfile
+ 5214   * base: centos.excellmedia.net
+ 5215   * epel: repos.del.extreme-ix.org
+ 5216   * extras: centos.excellmedia.net
+ 5217   * updates: centos.excellmedia.net
+ 5218  Package tree-1.6.0-10.el7.x86_64 already installed and latest version
+ 5219  Nothing to do
+ 5220  Loaded plugins: fastestmirror, langpacks
+ 5221  Loading mirror speeds from cached hostfile
+ 5222   * base: centos.excellmedia.net
+ 5223   * epel: repos.del.extreme-ix.org
+ 5224   * extras: centos.excellmedia.net
+ 5225   * updates: centos.excellmedia.net
+ 5226  Package info-5.1-5.el7.x86_64 already installed and latest version
+ 5227  Nothing to do
+ 5228  Loaded plugins: fastestmirror, langpacks
+ 5229  Loading mirror speeds from cached hostfile
+ 5230   * base: centos.excellmedia.net
+ 5231   * epel: repos.del.extreme-ix.org
+ 5232   * extras: centos.excellmedia.net
+ 5233   * updates: centos.excellmedia.net
+ 5234  Package pinfo-0.6.10-9.el7.x86_64 already installed and latest version
+ 5235  Nothing to do
+ 5236  Loaded plugins: fastestmirror, langpacks
+ 5237  Loading mirror speeds from cached hostfile
+ 5238   * base: centos.excellmedia.net
+ 5239   * epel: repos.del.extreme-ix.org
+ 5240   * extras: centos.excellmedia.net
+ 5241   * updates: centos.excellmedia.net
+ 5242  Package man-db-2.6.3-11.el7.x86_64 already installed and latest version
+ 5243  Nothing to do
+ 5244  Loaded plugins: fastestmirror, langpacks
+ 5245  Loading mirror speeds from cached hostfile
+ 5246   * base: centos.excellmedia.net
+ 5247   * epel: repos.del.extreme-ix.org
+ 5248   * extras: centos.excellmedia.net
+ 5249   * updates: centos.excellmedia.net
+ 5250  No package langpacks* available.
+ 5251  Error: Nothing to do
+ 5252  Loaded plugins: fastestmirror, langpacks
+ 5253  Loading mirror speeds from cached hostfile
+ 5254   * base: centos.excellmedia.net
+ 5255   * epel: repos.del.extreme-ix.org
+ 5256   * extras: centos.excellmedia.net
+ 5257   * updates: centos.excellmedia.net
+ 5258  No package langpacks-* available.
+ 5259  Error: Nothing to do
+ 5260  Loaded plugins: fastestmirror, langpacks
+ 5261  Loading mirror speeds from cached hostfile
+ 5262   * base: centos.excellmedia.net
+ 5263   * epel: repos.del.extreme-ix.org
+ 5264   * extras: centos.excellmedia.net
+ 5265   * updates: centos.excellmedia.net
+ 5266  Error: No matching Packages to list
+ 5267  [root@localhost ~]# ./remove_docker.sh
+ 5268  Loaded plugins: fastestmirror, langpacks
+ 5269  No Match for argument: docker
+ 5270  No Match for argument: docker-client
+ 5271  No Match for argument: docker-client-latest
+ 5272  No Match for argument: docker-common
+ 5273  No Match for argument: docker-latest
+ 5274  No Match for argument: docker-latest-logrotate
+ 5275  No Match for argument: docker-logrotate
+ 5276  No Match for argument: docker-engine
+ 5277  No Packages marked for removal
+ 5278  [root@localhost ~]# ./add_docker.sh
+ 5279  Loaded plugins: fastestmirror, langpacks
+ 5280  Loading mirror speeds from cached hostfile
+ 5281   * base: centos.excellmedia.net
+ 5282   * epel: repos.del.extreme-ix.org
+ 5283   * extras: centos.excellmedia.net
+ 5284   * updates: centos.excellmedia.net
+ 5285  Package yum-utils-1.1.31-52.el7.noarch already installed and latest version
+ 5286  Package device-mapper-persistent-data-0.8.5-1.el7.x86_64 already installed and latest version
+ 5287  Package 7:lvm2-2.02.185-2.el7.x86_64 already installed and latest version
+ 5288  Nothing to do
+ 5289  Loaded plugins: fastestmirror, langpacks
+ 5290  adding repo from: https://download.docker.com/linux/centos/docker-ce.repo
+ 5291  grabbing file https://download.docker.com/linux/centos/docker-ce.repo to /etc/yum.repos.d/docker-ce.repo
+ 5292  repo saved to /etc/yum.repos.d/docker-ce.repo
+ 5293  Loaded plugins: fastestmirror, langpacks
+ 5294  =========================== repo: docker-ce-nightly ============================
+ 5295  [docker-ce-nightly]
+ 5296  async = True
+ 5297  bandwidth = 0
+ 5298  base_persistdir = /var/lib/yum/repos/x86_64/7
+ 5299  baseurl = https://download.docker.com/linux/centos/7/x86_64/nightly
+ 5300  cache = 0
+ 5301  cachedir = /var/cache/yum/x86_64/7/docker-ce-nightly
+ 5302  check_config_file_age = True
+ 5303  compare_providers_priority = 80
+ 5304  cost = 1000
+ 5305  deltarpm_metadata_percentage = 100
+ 5306  deltarpm_percentage =
+ 5307  enabled = 1
+ 5308  enablegroups = True
+ 5309  exclude =
+ 5310  failovermethod = priority
+ 5311  ftp_disable_epsv = False
+ 5312  gpgcadir = /var/lib/yum/repos/x86_64/7/docker-ce-nightly/gpgcadir
+ 5313  gpgcakey =
+ 5314  gpgcheck = True
+ 5315  gpgdir = /var/lib/yum/repos/x86_64/7/docker-ce-nightly/gpgdir
+ 5316  gpgkey = https://download.docker.com/linux/centos/gpg
+ 5317  hdrdir = /var/cache/yum/x86_64/7/docker-ce-nightly/headers
+ 5318  http_caching = all
+ 5319  includepkgs =
+ 5320  ip_resolve =
+ 5321  keepalive = True
+ 5322  keepcache = False
+ 5323  mddownloadpolicy = sqlite
+ 5324  mdpolicy = group:small
+ 5325  mediaid =
+ 5326  metadata_expire = 21600
+ 5327  metadata_expire_filter = read-only:present
+ 5328  metalink =
+ 5329  minrate = 0
+ 5330  mirrorlist =
+ 5331  mirrorlist_expire = 86400
+ 5332  name = Docker CE Nightly - x86_64
+ 5333  old_base_cache_dir =
+ 5334  password =
+ 5335  persistdir = /var/lib/yum/repos/x86_64/7/docker-ce-nightly
+ 5336  pkgdir = /var/cache/yum/x86_64/7/docker-ce-nightly/packages
+ 5337  proxy = False
+ 5338  proxy_dict =
+ 5339  proxy_password =
+ 5340  proxy_username =
+ 5341  repo_gpgcheck = False
+ 5342  retries = 10
+ 5343  skip_if_unavailable = False
+ 5344  ssl_check_cert_permissions = True
+ 5345  sslcacert =
+ 5346  sslclientcert =
+ 5347  sslclientkey =
+ 5348  sslverify = True
+ 5349  throttle = 0
+ 5350  timeout = 30.0
+ 5351  ui_id = docker-ce-nightly/x86_64
+ 5352  ui_repoid_vars = releasever,
+ 5353     basearch
+ 5354  username =
+ 5355  Loaded plugins: fastestmirror, langpacks
+ 5356  ============================= repo: docker-ce-test =============================
+ 5357  [docker-ce-test]
+ 5358  async = True
+ 5359  bandwidth = 0
+ 5360  base_persistdir = /var/lib/yum/repos/x86_64/7
+ 5361  baseurl = https://download.docker.com/linux/centos/7/x86_64/test
+ 5362  cache = 0
+ 5363  cachedir = /var/cache/yum/x86_64/7/docker-ce-test
+ 5364  check_config_file_age = True
+ 5365  compare_providers_priority = 80
+ 5366  cost = 1000
+ 5367  deltarpm_metadata_percentage = 100
+ 5368  deltarpm_percentage =
+ 5369  enabled = 1
+ 5370  enablegroups = True
+ 5371  exclude =
+ 5372  failovermethod = priority
+ 5373  ftp_disable_epsv = False
+ 5374  gpgcadir = /var/lib/yum/repos/x86_64/7/docker-ce-test/gpgcadir
+ 5375  gpgcakey =
+ 5376  gpgcheck = True
+ 5377  gpgdir = /var/lib/yum/repos/x86_64/7/docker-ce-test/gpgdir
+ 5378  gpgkey = https://download.docker.com/linux/centos/gpg
+ 5379  hdrdir = /var/cache/yum/x86_64/7/docker-ce-test/headers
+ 5380  http_caching = all
+ 5381  includepkgs =
+ 5382  ip_resolve =
+ 5383  keepalive = True
+ 5384  keepcache = False
+ 5385  mddownloadpolicy = sqlite
+ 5386  mdpolicy = group:small
+ 5387  mediaid =
+ 5388  metadata_expire = 21600
+ 5389  metadata_expire_filter = read-only:present
+ 5390  metalink =
+ 5391  minrate = 0
+ 5392  mirrorlist =
+ 5393  mirrorlist_expire = 86400
+ 5394  name = Docker CE Test - x86_64
+ 5395  old_base_cache_dir =
+ 5396  password =
+ 5397  persistdir = /var/lib/yum/repos/x86_64/7/docker-ce-test
+ 5398  pkgdir = /var/cache/yum/x86_64/7/docker-ce-test/packages
+ 5399  proxy = False
+ 5400  proxy_dict =
+ 5401  proxy_password =
+ 5402  proxy_username =
+ 5403  repo_gpgcheck = False
+ 5404  retries = 10
+ 5405  skip_if_unavailable = False
+ 5406  ssl_check_cert_permissions = True
+ 5407  sslcacert =
+ 5408  sslclientcert =
+ 5409  sslclientkey =
+ 5410  sslverify = True
+ 5411  throttle = 0
+ 5412  timeout = 30.0
+ 5413  ui_id = docker-ce-test/x86_64
+ 5414  ui_repoid_vars = releasever,
+ 5415     basearch
+ 5416  username =
+ 5417  Loaded plugins: fastestmirror, langpacks
+ 5418  =========================== repo: docker-ce-nightly ============================
+ 5419  [docker-ce-nightly]
+ 5420  async = True
+ 5421  bandwidth = 0
+ 5422  base_persistdir = /var/lib/yum/repos/x86_64/7
+ 5423  baseurl = https://download.docker.com/linux/centos/7/x86_64/nightly
+ 5424  cache = 0
+ 5425  cachedir = /var/cache/yum/x86_64/7/docker-ce-nightly
+ 5426  check_config_file_age = True
+ 5427  compare_providers_priority = 80
+ 5428  cost = 1000
+ 5429  deltarpm_metadata_percentage = 100
+ 5430  deltarpm_percentage =
+ 5431  enabled = 0
+ 5432  enablegroups = True
+ 5433  exclude =
+ 5434  failovermethod = priority
+ 5435  ftp_disable_epsv = False
+ 5436  gpgcadir = /var/lib/yum/repos/x86_64/7/docker-ce-nightly/gpgcadir
+ 5437  gpgcakey =
+ 5438  gpgcheck = True
+ 5439  gpgdir = /var/lib/yum/repos/x86_64/7/docker-ce-nightly/gpgdir
+ 5440  gpgkey = https://download.docker.com/linux/centos/gpg
+ 5441  hdrdir = /var/cache/yum/x86_64/7/docker-ce-nightly/headers
+ 5442  http_caching = all
+ 5443  includepkgs =
+ 5444  ip_resolve =
+ 5445  keepalive = True
+ 5446  keepcache = False
+ 5447  mddownloadpolicy = sqlite
+ 5448  mdpolicy = group:small
+ 5449  mediaid =
+ 5450  metadata_expire = 21600
+ 5451  metadata_expire_filter = read-only:present
+ 5452  metalink =
+ 5453  minrate = 0
+ 5454  mirrorlist =
+ 5455  mirrorlist_expire = 86400
+ 5456  name = Docker CE Nightly - x86_64
+ 5457  old_base_cache_dir =
+ 5458  password =
+ 5459  persistdir = /var/lib/yum/repos/x86_64/7/docker-ce-nightly
+ 5460  pkgdir = /var/cache/yum/x86_64/7/docker-ce-nightly/packages
+ 5461  proxy = False
+ 5462  proxy_dict =
+ 5463  proxy_password =
+ 5464  proxy_username =
+ 5465  repo_gpgcheck = False
+ 5466  retries = 10
+ 5467  skip_if_unavailable = False
+ 5468  ssl_check_cert_permissions = True
+ 5469  sslcacert =
+ 5470  sslclientcert =
+ 5471  sslclientkey =
+ 5472  sslverify = True
+ 5473  throttle = 0
+ 5474  timeout = 30.0
+ 5475  ui_id = docker-ce-nightly/x86_64
+ 5476  ui_repoid_vars = releasever,
+ 5477     basearch
+ 5478  username =
+ 5479  Loaded plugins: fastestmirror, langpacks
+ 5480  Loading mirror speeds from cached hostfile
+ 5481   * base: centos.excellmedia.net
+ 5482   * epel: repos.del.extreme-ix.org
+ 5483   * extras: centos.excellmedia.net
+ 5484   * updates: centos.excellmedia.net
+ 5485  docker-ce-stable                                         | 3.5 kB     00:00
+ 5486  docker-ce-test                                           | 3.5 kB     00:00
+ 5487  Package 3:docker-ce-19.03.4-3.el7.x86_64 already installed and latest version
+ 5488  Package 1:docker-ce-cli-19.03.4-3.el7.x86_64 already installed and latest version
+ 5489  Package containerd.io-1.2.10-3.2.el7.x86_64 already installed and latest version
+ 5490  Nothing to do
+ 5491   * updates: centos.excellmedia.net
+ 5492  Loading mirror speeds from cached hostfile
+ 5493  Loaded plugins: fastestmirror, langpacks
+ 5494  Installed Packages
+ 5495   * extras: centos.excellmedia.net
+ 5496   * epel: repos.del.extreme-ix.org
+ 5497  docker-ce.x86_64         3:19.03.4-3.el7                       docker-ce-test
+ 5498  docker-ce.x86_64         3:19.03.4-3.el7                       docker-ce-stable
+ 5499  docker-ce.x86_64         3:19.03.4-3.el7                       @docker-ce-stable
+ 5500  docker-ce.x86_64         3:19.03.4-2.1.rc1.el7                 docker-ce-test
+ 5501  docker-ce.x86_64         3:19.03.3-3.el7                       docker-ce-test
+ 5502  docker-ce.x86_64         3:19.03.3-3.el7                       docker-ce-stable
+ 5503  docker-ce.x86_64         3:19.03.3-2.1.rc1.el7                 docker-ce-test
+ 5504  docker-ce.x86_64         3:19.03.3-1.2.beta2.el7               docker-ce-test
+ 5505  docker-ce.x86_64         3:19.03.3-1.1.beta1.el7               docker-ce-test
+ 5506  docker-ce.x86_64         3:19.03.2-3.el7                       docker-ce-test
+ 5507  docker-ce.x86_64         3:19.03.2-3.el7                       docker-ce-stable
+ 5508  docker-ce.x86_64         3:19.03.2-2.1.rc1.el7                 docker-ce-test
+ 5509  docker-ce.x86_64         3:19.03.2-1.1.beta1.el7               docker-ce-test
+ 5510  docker-ce.x86_64         3:19.03.1-3.el7                       docker-ce-test
+ 5511  docker-ce.x86_64         3:19.03.1-3.el7                       docker-ce-stable
+ 5512  docker-ce.x86_64         3:19.03.0-3.el7                       docker-ce-test
+ 5513  docker-ce.x86_64         3:19.03.0-3.el7                       docker-ce-stable
+ 5514  docker-ce.x86_64         3:19.03.0-2.3.rc3.el7                 docker-ce-test
+ 5515  docker-ce.x86_64         3:19.03.0-2.2.rc2.el7                 docker-ce-test
+ 5516  docker-ce.x86_64         3:19.03.0-1.5.beta5.el7               docker-ce-test
+ 5517  docker-ce.x86_64         3:19.03.0-1.4.beta4.el7               docker-ce-test
+ 5518  docker-ce.x86_64         3:19.03.0-1.3.beta3.el7               docker-ce-test
+ 5519  docker-ce.x86_64         3:19.03.0-1.2.beta2.el7               docker-ce-test
+ 5520  docker-ce.x86_64         3:19.03.0-1.1.beta1.el7               docker-ce-test
+ 5521  docker-ce.x86_64         3:18.09.9-3.el7                       docker-ce-test
+ 5522  docker-ce.x86_64         3:18.09.9-3.el7                       docker-ce-stable
+ 5523  docker-ce.x86_64         3:18.09.9-2.1.rc1.el7                 docker-ce-test
+ 5524  docker-ce.x86_64         3:18.09.9-1.1.beta1.el7               docker-ce-test
+ 5525  docker-ce.x86_64         3:18.09.8-3.el7                       docker-ce-test
+ 5526  docker-ce.x86_64         3:18.09.8-3.el7                       docker-ce-stable
+ 5527  docker-ce.x86_64         3:18.09.7-3.el7                       docker-ce-test
+ 5528  docker-ce.x86_64         3:18.09.7-3.el7                       docker-ce-stable
+ 5529  docker-ce.x86_64         3:18.09.7-2.1.rc1.el7                 docker-ce-test
+ 5530  docker-ce.x86_64         3:18.09.6-3.el7                       docker-ce-test
+ 5531  docker-ce.x86_64         3:18.09.6-3.el7                       docker-ce-stable
+ 5532  docker-ce.x86_64         3:18.09.6-2.1.rc1.el7                 docker-ce-test
+ 5533  docker-ce.x86_64         3:18.09.5-3.el7                       docker-ce-test
+ 5534  docker-ce.x86_64         3:18.09.5-3.el7                       docker-ce-stable
+ 5535  docker-ce.x86_64         3:18.09.5-2.1.rc1.el7                 docker-ce-test
+ 5536  docker-ce.x86_64         3:18.09.4-3.el7                       docker-ce-test
+ 5537  docker-ce.x86_64         3:18.09.4-3.el7                       docker-ce-stable
+ 5538  docker-ce.x86_64         3:18.09.4-2.1.rc1.el7                 docker-ce-test
+ 5539  docker-ce.x86_64         3:18.09.3-3.el7                       docker-ce-test
+ 5540  docker-ce.x86_64         3:18.09.3-3.el7                       docker-ce-stable
+ 5541  docker-ce.x86_64         3:18.09.3-2.1.rc1.el7                 docker-ce-test
+ 5542  docker-ce.x86_64         3:18.09.2-3.el7                       docker-ce-test
+ 5543  docker-ce.x86_64         3:18.09.2-3.el7                       docker-ce-stable
+ 5544  docker-ce.x86_64         3:18.09.1-3.el7                       docker-ce-test
+ 5545  docker-ce.x86_64         3:18.09.1-3.el7                       docker-ce-stable
+ 5546  docker-ce.x86_64         3:18.09.1-2.1.rc1.el7                 docker-ce-test
+ 5547  docker-ce.x86_64         3:18.09.1-1.2.beta2.el7               docker-ce-test
+ 5548  docker-ce.x86_64         3:18.09.1-1.1.beta1.el7               docker-ce-test
+ 5549  docker-ce.x86_64         3:18.09.0-3.el7                       docker-ce-test
+ 5550  docker-ce.x86_64         3:18.09.0-3.el7                       docker-ce-stable
+ 5551  docker-ce.x86_64         3:18.09.0-2.1.rc1.el7                 docker-ce-test
+ 5552  docker-ce.x86_64         3:18.09.0-1.5.beta5.el7               docker-ce-test
+ 5553  docker-ce.x86_64         3:18.09.0-1.3.beta3.el7               docker-ce-test
+ 5554  docker-ce.x86_64         2:18.09.0.ce-1.1.beta1.el7            docker-ce-test
+ 5555  docker-ce.x86_64         2:18.09.0.ce-0.6.tp6.el7              docker-ce-test
+ 5556  docker-ce.x86_64         2:18.09.0.ce-0.5.tp5.el7              docker-ce-test
+ 5557  docker-ce.x86_64         2:18.09.0.ce-0.4.tp4.el7              docker-ce-test
+ 5558  docker-ce.x86_64         2:18.09.0.ce-0.3.tp3.el7              docker-ce-test
+ 5559  docker-ce.x86_64         2:18.09.0.ce-0.0.tp0.el7              docker-ce-test
+ 5560  docker-ce.x86_64         18.06.3.ce-3.el7                      docker-ce-test
+ 5561  docker-ce.x86_64         18.06.3.ce-3.el7                      docker-ce-stable
+ 5562  docker-ce.x86_64         18.06.2.ce-3.el7                      docker-ce-test
+ 5563  docker-ce.x86_64         18.06.2.ce-3.el7                      docker-ce-stable
+ 5564  docker-ce.x86_64         18.06.1.ce-3.el7                      docker-ce-test
+ 5565  docker-ce.x86_64         18.06.1.ce-3.el7                      docker-ce-stable
+ 5566  docker-ce.x86_64         18.06.1.ce-2.2.rc2.el7                docker-ce-test
+ 5567  docker-ce.x86_64         18.06.1.ce-2.1.rc1.el7                docker-ce-test
+ 5568  docker-ce.x86_64         18.06.0.ce-3.el7                      docker-ce-test
+ 5569  docker-ce.x86_64         18.06.0.ce-3.el7                      docker-ce-stable
+ 5570  docker-ce.x86_64         18.06.0.ce-2.3.rc3.el7                docker-ce-test
+ 5571  docker-ce.x86_64         18.06.0.ce-2.2.rc2.el7                docker-ce-test
+ 5572  docker-ce.x86_64         18.06.0.ce-2.1.rc1.el7                docker-ce-test
+ 5573  docker-ce.x86_64         18.05.0.ce-3.el7.centos               docker-ce-test
+ 5574  docker-ce.x86_64         18.05.0.ce-2.1.rc1.el7.centos         docker-ce-test
+ 5575  docker-ce.x86_64         18.04.0.ce-3.el7.centos               docker-ce-test
+ 5576  docker-ce.x86_64         18.04.0.ce-2.2.rc2.el7.centos         docker-ce-test
+ 5577  docker-ce.x86_64         18.04.0.ce-2.1.rc1.el7.centos         docker-ce-test
+ 5578  docker-ce.x86_64         18.03.1.ce-1.el7.centos               docker-ce-test
+ 5579  docker-ce.x86_64         18.03.1.ce-1.el7.centos               docker-ce-stable
+ 5580  docker-ce.x86_64         18.03.1.ce-0.2.rc2.el7.centos         docker-ce-test
+ 5581  docker-ce.x86_64         18.03.1.ce-0.1.rc1.el7.centos         docker-ce-test
+ 5582  docker-ce.x86_64         18.03.0.ce-1.el7.centos               docker-ce-test
+ 5583  docker-ce.x86_64         18.03.0.ce-1.el7.centos               docker-ce-stable
+ 5584  docker-ce.x86_64         18.03.0.ce-0.4.rc4.el7.centos         docker-ce-test
+ 5585  docker-ce.x86_64         18.03.0.ce-0.3.rc3.el7.centos         docker-ce-test
+ 5586  docker-ce.x86_64         18.03.0.ce-0.2.rc2.el7.centos         docker-ce-test
+ 5587  docker-ce.x86_64         18.03.0.ce-0.1.rc1.el7.centos         docker-ce-test
+ 5588  docker-ce.x86_64         18.02.0.ce-1.el7.centos               docker-ce-test
+ 5589  docker-ce.x86_64         18.02.0.ce-0.2.rc2.el7.centos         docker-ce-test
+ 5590  docker-ce.x86_64         18.02.0.ce-0.1.rc1.el7.centos         docker-ce-test
+ 5591  docker-ce.x86_64         18.01.0.ce-1.el7.centos               docker-ce-test
+ 5592  docker-ce.x86_64         18.01.0.ce-0.1.rc1.el7.centos         docker-ce-test
+ 5593  docker-ce.x86_64         17.12.1.ce-1.el7.centos               docker-ce-test
+ 5594  docker-ce.x86_64         17.12.1.ce-1.el7.centos               docker-ce-stable
+ 5595  docker-ce.x86_64         17.12.1.ce-0.2.rc2.el7.centos         docker-ce-test
+ 5596  docker-ce.x86_64         17.12.1.ce-0.1.rc1.el7.centos         docker-ce-test
+ 5597  docker-ce.x86_64         17.12.0.ce-1.el7.centos               docker-ce-test
+ 5598  docker-ce.x86_64         17.12.0.ce-1.el7.centos               docker-ce-stable
+ 5599  docker-ce.x86_64         17.12.0.ce-0.4.rc4.el7.centos         docker-ce-test
+ 5600  docker-ce.x86_64         17.12.0.ce-0.3.rc3.el7.centos         docker-ce-test
+ 5601  docker-ce.x86_64         17.12.0.ce-0.2.rc2.el7.centos         docker-ce-test
+ 5602  docker-ce.x86_64         17.12.0.ce-0.1.rc1.el7.centos         docker-ce-test
+ 5603  docker-ce.x86_64         17.11.0.ce-1.el7.centos               docker-ce-test
+ 5604  docker-ce.x86_64         17.11.0.ce-0.4.rc4.el7.centos         docker-ce-test
+ 5605  docker-ce.x86_64         17.11.0.ce-0.3.rc3.el7.centos         docker-ce-test
+ 5606  docker-ce.x86_64         17.11.0.ce-0.2.rc2.el7.centos         docker-ce-test
+ 5607  docker-ce.x86_64         17.11.0.ce-0.1.rc1.el7.centos         docker-ce-test
+ 5608  docker-ce.x86_64         17.10.0.ce-1.el7.centos               docker-ce-test
+ 5609  docker-ce.x86_64         17.10.0.ce-0.2.rc2.el7.centos         docker-ce-test
+ 5610  docker-ce.x86_64         17.10.0.ce-0.1.rc1.el7.centos         docker-ce-test
+ 5611  docker-ce.x86_64         17.09.1.ce-1.el7.centos               docker-ce-test
+ 5612  docker-ce.x86_64         17.09.1.ce-1.el7.centos               docker-ce-stable
+ 5613  docker-ce.x86_64         17.09.1.ce-0.1.rc1.el7.centos         docker-ce-test
+ 5614  docker-ce.x86_64         17.09.0.ce-1.el7.centos               docker-ce-test
+ 5615  docker-ce.x86_64         17.09.0.ce-1.el7.centos               docker-ce-stable
+ 5616  docker-ce.x86_64         17.09.0.ce-0.3.rc3.el7.centos         docker-ce-test
+ 5617  docker-ce.x86_64         17.09.0.ce-0.2.rc2.el7.centos         docker-ce-test
+ 5618  docker-ce.x86_64         17.09.0.ce-0.1.rc1.el7.centos         docker-ce-test
+ 5619  docker-ce.x86_64         17.07.0.ce-1.el7.centos               docker-ce-test
+ 5620  docker-ce.x86_64         17.07.0.ce-0.4.rc4.el7.centos         docker-ce-test
+ 5621  docker-ce.x86_64         17.07.0.ce-0.3.rc3.el7.centos         docker-ce-test
+ 5622  docker-ce.x86_64         17.07.0.ce-0.2.rc2.el7.centos         docker-ce-test
+ 5623  docker-ce.x86_64         17.07.0.ce-0.1.rc1.el7.centos         docker-ce-test
+ 5624  docker-ce.x86_64         17.06.2.ce-1.el7.centos               docker-ce-test
+ 5625  docker-ce.x86_64         17.06.2.ce-1.el7.centos               docker-ce-stable
+ 5626  docker-ce.x86_64         17.06.2.ce-0.1.rc1.el7.centos         docker-ce-test
+ 5627  docker-ce.x86_64         17.06.1.ce-1.el7.centos               docker-ce-test
+ 5628  docker-ce.x86_64         17.06.1.ce-1.el7.centos               docker-ce-stable
+ 5629  docker-ce.x86_64         17.06.1.ce-0.4.rc4.el7.centos         docker-ce-test
+ 5630  docker-ce.x86_64         17.06.1.ce-0.3.rc3.el7.centos         docker-ce-test
+ 5631  docker-ce.x86_64         17.06.1.ce-0.2.rc2.el7.centos         docker-ce-test
+ 5632  docker-ce.x86_64         17.06.1.ce-0.1.rc1.el7.centos         docker-ce-test
+ 5633  docker-ce.x86_64         17.06.0.ce-1.el7.centos               docker-ce-test
+ 5634  docker-ce.x86_64         17.06.0.ce-1.el7.centos               docker-ce-stable
+ 5635  docker-ce.x86_64         17.06.0.ce-0.5.rc5.el7.centos         docker-ce-test
+ 5636  docker-ce.x86_64         17.06.0.ce-0.4.rc4.el7.centos         docker-ce-test
+ 5637  docker-ce.x86_64         17.06.0.ce-0.3.rc3.el7.centos         docker-ce-test
+ 5638  docker-ce.x86_64         17.06.0.ce-0.2.rc2.el7.centos         docker-ce-test
+ 5639  docker-ce.x86_64         17.06.0.ce-0.1.rc1.el7.centos         docker-ce-test
+ 5640  docker-ce.x86_64         17.05.0.ce-0.3.rc3.el7.centos         docker-ce-test
+ 5641  docker-ce.x86_64         17.05.0.ce-0.2.rc2.el7.centos         docker-ce-test
+ 5642  docker-ce.x86_64         17.05.0.ce-0.1.rc1.el7.centos         docker-ce-test
+ 5643  docker-ce.x86_64         17.04.0.ce-0.2.rc2.el7.centos         docker-ce-test
+ 5644  docker-ce.x86_64         17.04.0.ce-0.1.rc1.el7.centos         docker-ce-test
+ 5645  docker-ce.x86_64         17.03.3.ce-1.el7                      docker-ce-test
+ 5646  docker-ce.x86_64         17.03.3.ce-1.el7                      docker-ce-stable
+ 5647  docker-ce.x86_64         17.03.3.ce-0.1.rc1.el7                docker-ce-test
+ 5648  docker-ce.x86_64         17.03.2.ce-1.el7.centos               docker-ce-stable
+ 5649  docker-ce.x86_64         17.03.2.ce-0.1.rc1.el7.centos         docker-ce-test
+ 5650  docker-ce.x86_64         17.03.1.ce-1.el7.centos               docker-ce-stable
+ 5651  docker-ce.x86_64         17.03.1.ce-0.1.rc1.el7.centos         docker-ce-test
+ 5652  docker-ce.x86_64         17.03.0.ce-1.el7.centos               docker-ce-stable
+ 5653   * base: centos.excellmedia.net
+ 5654  Available Packages
+ 5655  Hello from Docker!
+ 5656  This message shows that your installation appears to be working correctly.
+ 5657  To generate this message, Docker took the following steps:
+ 5658   1. The Docker client contacted the Docker daemon.
+ 5659   2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+ 5660      (amd64)
+ 5661   3. The Docker daemon created a new container from that image which runs the
+ 5662      executable that produces the output you are currently reading.
+ 5663   4. The Docker daemon streamed that output to the Docker client, which sent it
+ 5664      to your terminal.
+ 5665  To try something more ambitious, you can run an Ubuntu container with:
+ 5666   $ docker run -it ubuntu bash
+ 5667  Share images, automate workflows, and more with a free Docker ID:
+ 5668   https://hub.docker.com/
+ 5669  For more examples and ideas, visit:
+ 5670   https://docs.docker.com/get-started/
+ 5671  REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
+ 5672  hello-world         latest              fce289e99eb9        9 months ago        1.84kB
+ 5673  docker: 'status' is not a docker command.
+ 5674  See 'docker --help'
+ 5675  Client: Docker Engine - Community
+ 5676   Version:           19.03.4
+ 5677   API version:       1.40
+ 5678   Go version:        go1.12.10
+ 5679   Git commit:        9013bf583a
+ 5680   Built:             Fri Oct 18 15:52:22 2019
+ 5681   OS/Arch:           linux/amd64
+ 5682   Experimental:      false
+ 5683  Server: Docker Engine - Community
+ 5684   Engine:
+ 5685    Version:          19.03.4
+ 5686    API version:      1.40 (minimum version 1.12)
+ 5687    Go version:       go1.12.10
+ 5688    Git commit:       9013bf583a
+ 5689    Built:            Fri Oct 18 15:50:54 2019
+ 5690    OS/Arch:          linux/amd64
+ 5691    Experimental:     false
+ 5692   containerd:
+ 5693    Version:          1.2.10
+ 5694    GitCommit:        b34a5c8af56e510852c35414db4c1f4fa6172339
+ 5695   runc:
+ 5696    Version:          1.0.0-rc8+dev
+ 5697    GitCommit:        3e425f80a8c931f88e6d94a8c831b9d5aa481657
+ 5698   docker-init:
+ 5699    Version:          0.18.0
+ 5700    GitCommit:        fec3683
+ 5701  [root@localhost ~]# docker images
+ 5702  REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
+ 5703  hello-world         latest              fce289e99eb9        9 months ago        1.84kB
+ 5704  [root@localhost ~]# docker run fce289e99eb9
+ 5705  Hello from Docker!
+ 5706  This message shows that your installation appears to be working correctly.
+ 5707  To generate this message, Docker took the following steps:
+ 5708   1. The Docker client contacted the Docker daemon.
+ 5709   2. The Docker daemon pulled the "hello-world" image from the Docker Hub.
+ 5710      (amd64)
+ 5711   3. The Docker daemon created a new container from that image which runs the
+ 5712      executable that produces the output you are currently reading.
+ 5713   4. The Docker daemon streamed that output to the Docker client, which sent it
+ 5714      to your terminal.
+ 5715  To try something more ambitious, you can run an Ubuntu container with:
+ 5716   $ docker run -it ubuntu bash
+ 5717  Share images, automate workflows, and more with a free Docker ID:
+ 5718   https://hub.docker.com/
+ 5719  For more examples and ideas, visit:
+ 5720   https://docs.docker.com/get-started/
+ 5721  [root@localhost ~]# docker images
+ 5722  REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
+ 5723  hello-world         latest              fce289e99eb9        9 months ago        1.84kB
+ 5724  [root@localhost ~]# docker status
+ 5725  docker: 'status' is not a docker command.
+ 5726  See 'docker --help'
+ 5727  [root@localhost ~]# yum groupinstall Fonts -y
+ 5728  Loaded plugins: fastestmirror, langpacks
+ 5729  There is no installed groups file.
+ 5730  Maybe run: yum groups mark convert (see man yum)
+ 5731  Loading mirror speeds from cached hostfile
+ 5732   * base: centos.excellmedia.net
+ 5733   * epel: repos.del.extreme-ix.org
+ 5734   * extras: centos.excellmedia.net
+ 5735   * updates: centos.excellmedia.net
+ 5736  Resolving Dependencies
+ 5737  --> Running transaction check
+ 5738  ---> Package cjkuni-uming-fonts.noarch 0:0.2.20080216.1-53.el7 will be installed
+ 5739  ---> Package dejavu-sans-mono-fonts.noarch 0:2.33-6.el7 will be installed
+ 5740  ---> Package dejavu-serif-fonts.noarch 0:2.33-6.el7 will be installed
+ 5741  ---> Package gnu-free-mono-fonts.noarch 0:20120503-8.el7 will be installed
+ 5742  --> Processing Dependency: gnu-free-fonts-common = 20120503-8.el7 for package: gnu-free-mono-fonts-20120503-8.el7.noarch
+ 5743  ---> Package gnu-free-sans-fonts.noarch 0:20120503-8.el7 will be installed
+ 5744  ---> Package gnu-free-serif-fonts.noarch 0:20120503-8.el7 will be installed
+ 5745  ---> Package google-crosextra-caladea-fonts.noarch 0:1.002-0.4.20130214.el7 will be installed
+ 5746  ---> Package google-crosextra-carlito-fonts.noarch 0:1.103-0.2.20130920.el7 will be installed
+ 5747  ---> Package google-noto-emoji-fonts.noarch 0:20180508-4.el7 will be installed
+ 5748  ---> Package jomolhari-fonts.noarch 0:0.003-17.el7 will be installed
+ 5749  ---> Package khmeros-base-fonts.noarch 0:5.0-17.el7 will be installed
+ 5750  --> Processing Dependency: khmeros-fonts-common = 5.0-17.el7 for package: khmeros-base-fonts-5.0-17.el7.noarch
+ 5751  ---> Package liberation-mono-fonts.noarch 1:1.07.2-16.el7 will be installed
+ 5752  --> Processing Dependency: liberation-fonts-common = 1:1.07.2-16.el7 for package: 1:liberation-mono-fonts-1.07.2-16.el7.noarch
+ 5753  ---> Package liberation-sans-fonts.noarch 1:1.07.2-16.el7 will be installed
+ 5754  ---> Package liberation-serif-fonts.noarch 1:1.07.2-16.el7 will be installed
+ 5755  ---> Package lklug-fonts.noarch 0:0.6-10.20090803cvs.el7 will be installed
+ 5756  ---> Package lohit-assamese-fonts.noarch 0:2.5.3-2.el7 will be installed
+ 5757  ---> Package lohit-bengali-fonts.noarch 0:2.5.3-4.el7 will be installed
+ 5758  ---> Package lohit-devanagari-fonts.noarch 0:2.5.3-4.el7 will be installed
+ 5759  ---> Package lohit-gujarati-fonts.noarch 0:2.5.3-2.el7 will be installed
+ 5760  ---> Package lohit-kannada-fonts.noarch 0:2.5.3-3.el7 will be installed
+ 5761  ---> Package lohit-malayalam-fonts.noarch 0:2.5.3-2.el7 will be installed
+ 5762  ---> Package lohit-marathi-fonts.noarch 0:2.5.3-2.el7 will be installed
+ 5763  ---> Package lohit-nepali-fonts.noarch 0:2.5.3-2.el7 will be installed
+ 5764  ---> Package lohit-oriya-fonts.noarch 0:2.5.4.1-3.el7 will be installed
+ 5765  ---> Package lohit-punjabi-fonts.noarch 0:2.5.3-2.el7 will be installed
+ 5766  ---> Package lohit-tamil-fonts.noarch 0:2.5.3-2.el7 will be installed
+ 5767  ---> Package lohit-telugu-fonts.noarch 0:2.5.3-3.el7 will be installed
+ 5768  ---> Package madan-fonts.noarch 0:2.000-11.el7 will be installed
+ 5769  ---> Package nhn-nanum-gothic-fonts.noarch 0:3.020-9.el7 will be installed
+ 5770  --> Processing Dependency: nhn-nanum-fonts-common = 3.020-9.el7 for package: nhn-nanum-gothic-fonts-3.020-9.el7.noarch
+ 5771  ---> Package open-sans-fonts.noarch 0:1.10-1.el7 will be installed
+ 5772  ---> Package overpass-fonts.noarch 0:2.1-1.el7 will be installed
+ 5773  ---> Package paktype-naskh-basic-fonts.noarch 0:4.1-3.el7 will be installed
+ 5774  ---> Package paratype-pt-sans-fonts.noarch 0:20101909-3.el7 will be installed
+ 5775  ---> Package sil-abyssinica-fonts.noarch 0:1.200-6.el7 will be installed
+ 5776  ---> Package sil-nuosu-fonts.noarch 0:2.1.1-5.el7 will be installed
+ 5777  ---> Package sil-padauk-fonts.noarch 0:2.8-5.el7 will be installed
+ 5778  ---> Package smc-meera-fonts.noarch 0:6.0-7.el7 will be installed
+ 5779  --> Processing Dependency: smc-fonts-common = 6.0-7.el7 for package: smc-meera-fonts-6.0-7.el7.noarch
+ 5780  ---> Package stix-fonts.noarch 0:1.1.0-5.el7 will be installed
+ 5781  ---> Package thai-scalable-waree-fonts.noarch 0:0.5.0-7.el7 will be installed
+ 5782  --> Processing Dependency: thai-scalable-fonts-common = 0.5.0-7.el7 for package: thai-scalable-waree-fonts-0.5.0-7.el7.noarch
+ 5783  ---> Package ucs-miscfixed-fonts.noarch 0:0.3-11.el7 will be installed
+ 5784  ---> Package vlgothic-fonts.noarch 0:20130607-2.el7 will be installed
+ 5785  ---> Package wqy-microhei-fonts.noarch 0:0.2.0-0.12.beta.el7 will be installed
+ 5786  ---> Package wqy-zenhei-fonts.noarch 0:0.9.46-11.el7 will be installed
+ 5787  --> Running transaction check
+ 5788  ---> Package gnu-free-fonts-common.noarch 0:20120503-8.el7 will be installed
+ 5789  ---> Package khmeros-fonts-common.noarch 0:5.0-17.el7 will be installed
+ 5790  ---> Package liberation-fonts-common.noarch 1:1.07.2-16.el7 will be installed
+ 5791  ---> Package nhn-nanum-fonts-common.noarch 0:3.020-9.el7 will be installed
+ 5792  ---> Package smc-fonts-common.noarch 0:6.0-7.el7 will be installed
+ 5793  ---> Package thai-scalable-fonts-common.noarch 0:0.5.0-7.el7 will be installed
+ 5794  --> Finished Dependency Resolution
+ 5795  Dependencies Resolved
+ 5796  ================================================================================
+ 5797   Package                         Arch    Version                    Repository
+ 5798                                                                             Size
+ 5799  ================================================================================
+ 5800  Installing for group install "Fonts":
+ 5801   cjkuni-uming-fonts              noarch  0.2.20080216.1-53.el7      base  8.2 M
+ 5802   dejavu-sans-mono-fonts          noarch  2.33-6.el7                 base  433 k
+ 5803   dejavu-serif-fonts              noarch  2.33-6.el7                 base  776 k
+ 5804   gnu-free-mono-fonts             noarch  20120503-8.el7             base  693 k
+ 5805   gnu-free-sans-fonts             noarch  20120503-8.el7             base  1.3 M
+ 5806   gnu-free-serif-fonts            noarch  20120503-8.el7             base  2.6 M
+ 5807   google-crosextra-caladea-fonts  noarch  1.002-0.4.20130214.el7     base   92 k
+ 5808   google-crosextra-carlito-fonts  noarch  1.103-0.2.20130920.el7     base  813 k
+ 5809   google-noto-emoji-fonts         noarch  20180508-4.el7             base  292 k
+ 5810   jomolhari-fonts                 noarch  0.003-17.el7               base  534 k
+ 5811   khmeros-base-fonts              noarch  5.0-17.el7                 base  123 k
+ 5812   liberation-mono-fonts           noarch  1:1.07.2-16.el7            base  227 k
+ 5813   liberation-sans-fonts           noarch  1:1.07.2-16.el7            base  279 k
+ 5814   liberation-serif-fonts          noarch  1:1.07.2-16.el7            base  298 k
+ 5815   lklug-fonts                     noarch  0.6-10.20090803cvs.el7     base   89 k
+ 5816   lohit-assamese-fonts            noarch  2.5.3-2.el7                base   73 k
+ 5817   lohit-bengali-fonts             noarch  2.5.3-4.el7                base   73 k
+ 5818   lohit-devanagari-fonts          noarch  2.5.3-4.el7                base   48 k
+ 5819   lohit-gujarati-fonts            noarch  2.5.3-2.el7                base   38 k
+ 5820   lohit-kannada-fonts             noarch  2.5.3-3.el7                base   54 k
+ 5821   lohit-malayalam-fonts           noarch  2.5.3-2.el7                base   42 k
+ 5822   lohit-marathi-fonts             noarch  2.5.3-2.el7                base   45 k
+ 5823   lohit-nepali-fonts              noarch  2.5.3-2.el7                base   45 k
+ 5824   lohit-oriya-fonts               noarch  2.5.4.1-3.el7              base   54 k
+ 5825   lohit-punjabi-fonts             noarch  2.5.3-2.el7                base   24 k
+ 5826   lohit-tamil-fonts               noarch  2.5.3-2.el7                base   36 k
+ 5827   lohit-telugu-fonts              noarch  2.5.3-3.el7                base   62 k
+ 5828   madan-fonts                     noarch  2.000-11.el7               base   83 k
+ 5829   nhn-nanum-gothic-fonts          noarch  3.020-9.el7                base  6.1 M
+ 5830   open-sans-fonts                 noarch  1.10-1.el7                 base  475 k
+ 5831   overpass-fonts                  noarch  2.1-1.el7                  base  700 k
+ 5832   paktype-naskh-basic-fonts       noarch  4.1-3.el7                  base  426 k
+ 5833   paratype-pt-sans-fonts          noarch  20101909-3.el7             base  609 k
+ 5834   sil-abyssinica-fonts            noarch  1.200-6.el7                base  671 k
+ 5835   sil-nuosu-fonts                 noarch  2.1.1-5.el7                base  193 k
+ 5836   sil-padauk-fonts                noarch  2.8-5.el7                  base  174 k
+ 5837   smc-meera-fonts                 noarch  6.0-7.el7                  base  148 k
+ 5838   stix-fonts                      noarch  1.1.0-5.el7                base  1.3 M
+ 5839   thai-scalable-waree-fonts       noarch  0.5.0-7.el7                base  168 k
+ 5840   ucs-miscfixed-fonts             noarch  0.3-11.el7                 base  466 k
+ 5841   vlgothic-fonts                  noarch  20130607-2.el7             base  2.2 M
+ 5842   wqy-microhei-fonts              noarch  0.2.0-0.12.beta.el7        base  1.7 M
+ 5843   wqy-zenhei-fonts                noarch  0.9.46-11.el7              base  7.7 M
+ 5844  Installing for dependencies:
+ 5845   gnu-free-fonts-common           noarch  20120503-8.el7             base  127 k
+ 5846   khmeros-fonts-common            noarch  5.0-17.el7                 base  6.2 k
+ 5847   liberation-fonts-common         noarch  1:1.07.2-16.el7            base   27 k
+ 5848   nhn-nanum-fonts-common          noarch  3.020-9.el7                base   11 k
+ 5849   smc-fonts-common                noarch  6.0-7.el7                  base  9.6 k
+ 5850   thai-scalable-fonts-common      noarch  0.5.0-7.el7                base   13 k
+ 5851  history
+ 5852  ll
+ 5853  vim script1.sh 
+ 5854  history > amit.txt
