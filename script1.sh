@@ -149,4 +149,7 @@ yum install evolution -y
 yum install cat -y
 yum install zcat -y
 yum install cal -y
+yum install textedit -y
+yum install sublime -y
+yum install sublimetext -y
 
