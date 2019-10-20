@@ -152,4 +152,4 @@ yum install cal -y
 yum install textedit -y
 yum install sublime -y
 yum install sublimetext -y
-
+yum install banner -y
