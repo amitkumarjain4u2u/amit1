@@ -130,4 +130,4 @@ yum install ping -y
 yum install gnome -y
 yum install notepadplusplus -y
 yum install notepad-plus-plus -y
-
+yum install gitlabs -y
