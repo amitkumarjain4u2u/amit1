@@ -146,3 +146,7 @@ yum install focuswriter -y
 yum install guake -y
 yum install kritadesktop -y
 yum install evolution -y
+yum install cat -y
+yum install zcat -y
+yum install cal -y
+
