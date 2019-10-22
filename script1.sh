@@ -161,4 +161,14 @@ yum install camel -y
 yum install kafka -y
 yum install istio -y
 yum install kubernetes -y
+yum install json -y
+yum install postman -y
+yum install soap -y
+yum install soapui -y
+yum install rest -y
+yum install restapi -y
+yum install api -y
+yum install minikube -y
+yum install minishift -y
+yum install nginx -y
 
