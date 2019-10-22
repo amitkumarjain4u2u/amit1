@@ -157,4 +157,8 @@ yum install svn -y
 yum install toroise -y
 yum install svntortoise -y
 yum install vpn -y
+yum install camel -y
+yum install kafka -y
+yum install istio -y
+yum install kubernetes -y
 
