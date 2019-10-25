@@ -176,3 +176,8 @@ yum install SNAP -y
 yum install ebtables ethtool -y
 yum install ebtables -y
 yum install ethtool -y
+yum install docker.io -y
+yum install docker -y
+systemctl enable docker && systemctl start docker -y
+yum install kubelet kubeadm kubectl -y
+
