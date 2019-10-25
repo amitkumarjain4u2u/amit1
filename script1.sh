@@ -171,4 +171,8 @@ yum install api -y
 yum install minikube -y
 yum install minishift -y
 yum install nginx -y
-
+yum install snap -y
+yum install SNAP -y
+yum install ebtables ethtool -y
+yum install ebtables -y
+yum install ethtool -y
