@@ -379,7 +379,6 @@ yum install query* -y
 yum install build* -y
 yum install wis* -y
 yum install apt* -y
-yum install yum* -y
 yum install dnf* -y
 yum install coreutils* -y
 yum install vsftpd* -y
@@ -387,7 +386,6 @@ yum install tree* -y
 yum install dir* -y
 yum install cpio* -y
 yum install create* -y
-yum install yum* -y
 yum install epel* -y
 yum list available | wc -l
 yum list installed | wc -l
@@ -404,4 +402,3 @@ yum groupinstall "Xfce" -y
 yum groupinstall "Xfce" -y
 yum upgrade -y
 yum update -y
-
