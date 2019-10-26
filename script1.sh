@@ -395,4 +395,13 @@ yum list all | wc -l
 yum list available
 yum list installed
 yum list all
+yum groupinstall "Virtualization Host" -y
+yum groupinstall "Development Tools" -y
+yum groupinstall "Security Tools" -y
+yum groupinstall "System Administration Tools" -y
+yum groupinstall "System Management" -y
+yum groupinstall "Xfce" -y
+yum groupinstall "Xfce" -y
+yum upgrade -y
+yum update -y
 
