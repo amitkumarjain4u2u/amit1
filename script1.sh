@@ -385,4 +385,14 @@ yum install coreutils* -y
 yum install vsftpd* -y
 yum install tree* -y
 yum install dir* -y
+yum install cpio* -y
+yum install create* -y
+yum install yum* -y
+yum install epel* -y
+yum list available | wc -l
+yum list installed | wc -l
+yum list all | wc -l
+yum list available
+yum list installed
+yum list all
 
