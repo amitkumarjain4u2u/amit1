@@ -365,4 +365,24 @@ yum install kubelet kubeadm kubectl* -y
 yum install createrepo* -y
 yum install ss* -y
 yum install netstat* -y
+yum install net* -y
+yum install chrony* -y
+yum install hist* -y
+systemctl restart chronyd.service
+systemctl status chronyd.service
+yum install ntp* -y
+yum install http* -y
+yum install deb* -y
+yum install msi* -y
+yum install rpm* -y
+yum install query* -y
+yum install build* -y
+yum install wis* -y
+yum install apt* -y
+yum install yum* -y
+yum install dnf* -y
+yum install coreutils* -y
+yum install vsftpd* -y
+yum install tree* -y
+yum install dir* -y
 
