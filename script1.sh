@@ -185,8 +185,8 @@ mandb
 mandb
 yum update* -y
 yum install epel-release* -y
-yum* -y update
-yum* -y install mlocate
+yum -y update
+yum -y install mlocate
 updatedb
 yum install repolist all* -y
 yum install repolist* -y
