@@ -191,7 +191,7 @@ updatedb
 yum install repolist all* -y
 yum install repolist* -y
 yum repolist all* -y
-yum install java* -y
+yum install java -y
 yum install perl* -y
 yum install curl* -y
 yum install jenkins* -y
@@ -402,3 +402,10 @@ yum groupinstall "Xfce" -y
 yum groupinstall "Xfce" -y
 yum upgrade -y
 yum update -y
+yum install rpm2cpio -y
+yum install rpm2cpio* -y
+yum install wonderwidgets -y
+yum install wonderwidgets* -y
+yum install rhcsa-script -y
+yum install rhcsa-script* -y
+
