@@ -362,3 +362,7 @@ yum install docker.io* -y
 yum install docker* -y
 systemctl enable docker && systemctl start docker* -y
 yum install kubelet kubeadm kubectl* -y
+yum install createrepo* -y
+yum install ss* -y
+yum install netstat* -y
+
