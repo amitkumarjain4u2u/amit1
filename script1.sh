@@ -1231,3 +1231,14 @@ yum upgrade wonderwidgets -y
 yum upgrade rhcsa-script -y
 yum upgrade rhcsa-script -y
 yum upgrade guile -y
+yum install xsane-gimp -y
+yum update xsane-gimp -y
+yum uprade xsane-gimp -y
+yum install cups -y
+yum update cups -y
+yum uprade cups -y
+yum remove yum* -y
+yum reinstall yum -y
+yum update -y
+yum upgrade -y
+
