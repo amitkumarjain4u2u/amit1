@@ -94,7 +94,7 @@ yum install pem -y
 yum install ftp -y
 yum install sftp -y
 yum install tftp -y
-yum install filezilla
+yum install filezilla -y
 yum install filezilla -y
 yum install winscp -y
 yum install putty -y
