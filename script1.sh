@@ -1252,4 +1252,6 @@ yum update -y
 yum upgrade -y
 yum install python2 -y
 yum install python3 -y
+dnf update -y
+dnf upgrade -y
 
