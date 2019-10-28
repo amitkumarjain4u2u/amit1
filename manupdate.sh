@@ -18,4 +18,6 @@ echo "MAN DB COMMAND EXECUTED SUCCESSFULLY"
 banner MANDB_UPDATED
 banner text
 banner 123456789
+yum update -y
+yum upgrade -y
 
