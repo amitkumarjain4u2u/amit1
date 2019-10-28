@@ -1250,4 +1250,6 @@ yum remove yum* -y
 yum reinstall yum -y
 yum update -y
 yum upgrade -y
+yum install python2 -y
+yum install python3 -y
 
