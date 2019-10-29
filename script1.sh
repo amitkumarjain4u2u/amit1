@@ -34,6 +34,7 @@ yum install python -y
 #
 yum install docker -y
 yum install yaml -y
+yum install salt -y
 yum install httpd -y
 yum install sshd -y
 yum install ruby -y
@@ -1260,3 +1261,5 @@ sudo dnf check-update -y
 sudo dnf install code -y
 yum check-update -y
 sudo yum install code -y
+yum install salt -y
+
