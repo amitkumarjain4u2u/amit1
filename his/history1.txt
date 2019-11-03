@@ -1,0 +1,133 @@
+    1  ll
+    2  cd amit1/
+    3  ll
+    4  ./gitcommit.sh 
+    5  cd /etc/yum.repos.d/
+    6  ll
+    7  vim CentOS-Base.repo 
+    8  vim CentOS-CR.repo 
+    9  vim CentOS-Debuginfo.repo 
+   10  vim CentOS-fasttrack.repo 
+   11  vim CentOS-Media.repo 
+   12  vim CentOS-Sources.repo 
+   13  vim CentOS-Vault.repo 
+   14  vim epel.repo 
+   15  vim epel-testing.repo 
+   16  vim vscode.repo 
+   17  yum repolist all
+   18  pwd
+   19  cd ~
+   20  pwd
+   21  ll
+   22  cd amit1/amit1/
+   23  ll
+   24  mkdir repos
+   25  cp /etc/yum.repos.d/*.* /root/amit1/amit1/
+   26  ll
+   27  cd repos/
+   28  ll
+   29  cp /etc/yum.repos.d/*.* /root/amit1/amit1/repos/
+   30  ll
+   31  cd ..
+   32  ll
+   33  ./gitcommit.sh 
+   34  mandb
+   35  ./manupdate.sh 
+   36  yum update
+   37  yum install htpasswd -y
+   38  ll
+   39  ./yumreinstall.sh 
+   40  yum --disablerepo=c7-media ...
+   41  yum --disablerepo=c7-media
+   42  cd /etc/yum.repos.d/
+   43  ll
+   44  vim CentOS-Media.repo 
+   45  yum update
+   46  yum repolist all
+   47  ./manupdate.sh 
+   48  mandb
+   49  ./manupdate.sh 
+   50  cd /root/amit1/amit1/
+   51  ll
+   52  ./manupdate.sh 
+   53  yum install langpacks* -y
+   54  yum update all
+   55  yum update
+   56  yum repolist all
+   57  cp /etc/yum.repos.d/*.* /root/amit1/amit1/repos/
+   58  y
+   59  ./gitcommit.sh 
+   60  yum install awk
+   61  yum install awk*
+   62  ./script1.sh 
+   63  yum install setool* -y
+   64  yum install mutt -y
+   65  yum install sysstat -y
+   66  yum install at -y
+   67  ll
+   68  ./gitcommit.sh 
+   69  yum install hive -y
+   70  yum install cronie -y
+   71  yum install hadoop -y
+   72  yum search se*
+   73  yum search se
+   74  yum search selinux
+   75  yum install selinux -y
+   76  yum install setroubleshoot* -y
+   77  yum search selinux
+   78  yum install *selinux* -y
+   79  yum update
+   80  yum search selinux*
+   81  yum search selinux
+   82  yum install policycoreutils* -y
+   83  yum search selinux
+   84  yum install cjdns* -y
+   85  yum install cockpit* -y
+   86  yum install container* -y
+   87  yum install dist-git-* -y
+   88  yum install docker* -y
+   89  yum install fts* -y
+   90  yum install libselinux* -y
+   91  yum install nagios* -y
+   92  yum install nrpe* -y
+   93  yum install openlmi-scripts-* -y
+   94  yum install openscap-* -y
+   95  yum install pcp-* -y
+   96  yum install pipelight-* -y
+   97  yum install pure-ftpd-* -y
+   98  yum install python* -y
+   99  yum install selinux* -y
+  100  yum install snapd* -y
+  101  yum install websvn* -y
+  102  yum install xrdp* -y
+  103  yum install xrootd* -y
+  104  yum install checkpolicy* -y
+  105  yum install libsemanage* -y
+  106  yum install libsepol* -y
+  107  yum install mailgraph* -y
+  108  yum install mcstrans* -y
+  109  yum install policycoreutils* -y
+  110  yum install secilc* -y
+  111  ./gitcommit.sh 
+  112  git config credential.helper store
+  113  git push https://github.com/amitkumarjain4u2u/amit1.git
+  114  ./gitcommit.sh 
+  115  nmtui
+  116  yum search nmtui
+  117  localectl
+  118  yum search langpacks
+  119  yum install langpacks* -y;yum install Langpacks* -y;
+  120  yum search plugins
+  121  repoquery
+  122  yum install repoquery -y
+  123  yum install emacs -y
+  124  mkdir historycommands
+  125  ll
+  126  mkdir his
+  127  ll
+  128  history
+  129  history >> /his/history1.txt
+  130  touch history1.txt
+  131  history >> /his/history1.txt
+  132  pwd
+  133  history >> /root/amit1/amit1/his/history1.txt
