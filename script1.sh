@@ -1262,4 +1262,7 @@ sudo dnf install code -y
 yum check-update -y
 sudo yum install code -y
 yum install salt -y
-
+yum install setool* -y
+yum install mutt -y
+yum install sysstat -y
+yum install at -y
