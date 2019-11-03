@@ -811,3 +811,16 @@
   267  systemctl enable --now systemd-tmpfiles-clean.timer
   268  vim /usr/lib/systemd/system/systemd-tmpfiles-clean.timer
   269  history >> /root/amit1/amit1/his/history1.txt
+    1  history
+    2  cat /root/amit1/amit1/his/history1.txt
+    3  ./gitcommit.sh 
+    4  ll
+    5  ./manupdate.sh 
+    6  ll
+    7  getfacl history1.txt
+    8  getfacl .
+    9  getfacl /run/log/journal/fdd2918e5fca41968ca5fe33d880da4c/system.journal 
+   10  getfacl /dev/sda1 
+   11  history
+   12  cat /root/amit1/amit1/his/history1.txt
+   13  history >> /root/amit1/amit1/his/history1.txt
