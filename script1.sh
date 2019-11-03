@@ -1296,3 +1296,8 @@ yum install mcstrans* -y
 yum install policycoreutils* -y
 yum install secilc* -y
 yum install secilc* -y
+yum install cronie -y
+yum install hive -y
+yum install hadoop -y
+yum install setroubleshoot* -y
+yum install selinux -y
