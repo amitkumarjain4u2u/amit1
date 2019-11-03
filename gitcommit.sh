@@ -1,8 +1,7 @@
 git pull
 git status
 git add .
-git commit -m "committing changes"
+git commit -m "committing latest changes"
 git push
-git status
 git pull
 git status
