@@ -880,3 +880,93 @@
    54  history
    55  cat /root/amit1/amit1/his/history1.txt
    56  history >> /root/amit1/amit1/his/history1.txt
+    1  history
+    2  cat /root/amit1/amit1/his/history1.txt
+    3  ./gitcommit.sh 
+    4  ll
+    5  ./manupdate.sh 
+    6  ll
+    7  getfacl history1.txt
+    8  getfacl .
+    9  getfacl /run/log/journal/fdd2918e5fca41968ca5fe33d880da4c/system.journal 
+   10  getfacl /dev/sda1 
+   11  history
+   12  cat /root/amit1/amit1/his/history1.txt
+   13  history >> /root/amit1/amit1/his/history1.txt
+   14  cat /root/amit1/amit1/his/history1.txt
+   15  ./gitcommit.sh 
+   16* 
+   17  git config --global user.name "amitkumarjain4u2u"
+   18  git config --global user.email amitkumarjain4u2u@gmail.com
+   19  git commit --amend --reset-author
+   20  service sysstat restart
+   21  systemctl restart sysstat.service
+   22  ./gitcommit.sh 
+   23  git version
+   24  yum update git -y
+   25  git version
+   26  ./gitcommit.sh 
+   27  git config --global push.default matching
+   28  ./gitcommit.sh 
+   29  vim gitcommit.sh 
+   30  ./gitcommit.sh 
+   31  vim gitcommit.sh 
+   32  ./gitcommit.sh 
+   33  ./manupdate.sh 
+   34  systemctl enable --now cockpit.socket
+   35  getenforce
+   36  cat /etc/selinux/config 
+   37  rpm -qc selinux
+   38  yum install selinux -y
+   39  ls -ls
+   40  ls -ld
+   41  ls -la
+   42  mkdir /virtual
+   43  ll
+   44  mkdir virtual
+   45  ll
+   46  ls -Z virtual
+   47  ls -Zd virtual
+   48  chcon -t httpd_sys_content_t virtual
+   49  ls -Zd virtual
+   50  restorecom -v virtual/
+   51  restorecom -v virtual
+   52  restorecon -v virtual
+   53  ls -Zd virtual
+   54  history
+   55  cat /root/amit1/amit1/his/history1.txt
+   56  history >> /root/amit1/amit1/his/history1.txt
+   57  cat /root/amit1/amit1/his/history1.txt
+   58  ./gitcommit.sh 
+   59  ll
+   60  ./gitcommit.sh 
+   61  vim gitcommit.sh 
+   62  ./gitcommit.sh 
+   63  vim gitcommit.sh 
+   64  ./manupdate.sh 
+   65  sudo yum install https://centos7.iuscommunity.org/ius-release.rpm
+   66  sudo yum install git2u-all
+   67  git -version
+   68  git --version 
+   69  ./gitcommit.sh 
+   70  yum install policycoreutil -y
+   71  yum search policycoreutil
+   72  yum install 
+   73  yum install policycoreutils* -y
+   74  semanager
+   75  semanage
+   76  yum install semanage -y
+   77  getsebool
+   78  getsebool -a
+   79  getsebool -a | less
+   80  semanage boolean -l -c
+   81  sudo semanage boolean -l -c
+   82  sudo semanage boolean -l -h
+   83  sudo semanage boolean -l -C
+   84  sar -u
+   85  getsebool -1 | grep home
+   86  getsebool -a | grep home
+   87  setsebool -P httpd_enable_homedirs on
+   88  getsebool -a | grep home
+   89  history
+   90  history >> /root/amit1/amit1/his/history1.txt
