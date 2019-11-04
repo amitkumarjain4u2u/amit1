@@ -1366,3 +1366,7 @@
   107  vim historycopy.sh 
   108  vim gitcommit.sh 
   109  ./gitcommit.sh 
+    1  histpry
+    2  history
+    3  vim gitcommit.sh 
+    4  ./gitcommit.sh 
