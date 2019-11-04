@@ -1257,3 +1257,112 @@
   107  vim historycopy.sh 
   108  vim gitcommit.sh 
   109  ./gitcommit.sh 
+    1  hostname
+    2  hostname -i
+    3  hostnamectl set-hostname amit.lab.example.com
+    4  hostname
+    5  hostname -i
+    6  vim /etc/hosts
+    7  hostname -i
+    8  ifconfig
+    9  nmcli connection show
+   10  ll
+   11  cd amit1/amit1/
+   12  ll
+   13  cd chef-repo/
+   14  ll
+   15  ls -la
+   16  knife bootstrap 192.168.33.101 -x vagrant -P vagrant --sudo
+   17  hostnamectl
+   18  knife bootstrap -N amit.lab.example.com -x vagrant -P vagrant --sudo
+   19  knife bootstrap -N amit.lab.example.com -U vagrant -P vagrant --sudo
+   20  knife bootstrap 192.168.33.101 -U vagrant -P vagrant --sudo
+   21  hostname
+   22  hostname -i
+   23  yum update
+   24  cd ..
+   25  ll
+   26  ./gitcommit.sh 
+   27  ./manupdate.sh 
+   28  ll
+   29  ./scriptupdate.sh 
+   30  cd /etc/yum.repos.d/
+   31  ll
+   32  vim ius-archive.repo 
+   33  vim ius.repo 
+   34  vim ius-testing.repo 
+   35  ls -l /root/amit1/amit1/
+   36  ll
+   37  cp *.* /root/amit1/amit1/repos/
+   38  ll
+   39  cd /root/amit1/amit1/repos/
+   40  ll
+   41  cd ..
+   42  ll
+   43  ./gitcommit.sh 
+   44  ./scriptupdate.sh 
+   45  ll
+   46  history
+   47  ll
+   48  cd his
+   49  ll
+   50  cat history1.txt 
+   51  cd ..
+   52  ll
+   53* 
+   54  vim historycopy.sh 
+   55  ./historycopy.sh 
+   56  vim historycopy.sh 
+   57  ./historycopy.sh 
+   58  cp /etc/yum.repos.d/*.* /root/amit1/amit1/repos/
+   59  cp /etc/yum.repos.d/*.* /root/amit1/amit1/repos/ -y
+   60  cp --help
+   61  cp -fv /etc/yum.repos.d/*.* /root/amit1/amit1/repos/
+   62  y
+   63  cp -rvf /etc/yum.repos.d/*.* /root/amit1/amit1/repos/
+   64  yes | cp -rvf /etc/yum.repos.d/*.* /root/amit1/amit1/repos/
+   65  vim historycopy.sh 
+   66  ./historycopy.sh 
+   67  ./gitcommit.sh 
+   68  ll
+   69  cp ssh1.sh ssh2.sh
+   70  cp ss1.sh ss2.sh
+   71  ll
+   72  vim ss2.sh 
+   73  cp ss2.sh newshell.sh
+   74  vim chmod777.sh 
+   75  vim newshell.sh 
+   76  ll
+   77  ./newshell.sh ss3.sh
+   78  ll
+   79  vim ss3.sh 
+   80  ./gitcommit.sh 
+   81  ll
+   82  cd wget http://www-us.apache.org/dist/hadoop/common/hadoop-2.7.3/hadoop-2.7.3.tar.gz
+   83  mkdir hadoop
+   84  cd hadoop
+   85  cd wget http://www-us.apache.org/dist/hadoop/common/hadoop-2.7.3/hadoop-2.7.3.tar.gz
+   86  wget http://www-us.apache.org/dist/hadoop/common/hadoop-2.7.3/hadoop-2.7.3.tar.gz
+   87  hostnamectl set-hostname master
+   88  hostname
+   89  hostnamectl
+   90  vim /etc/hosts
+   91  hostnamectl set-hostname amit
+   92  hostname
+   93  useradd -d /opt/hadoop hadoop
+   94  passwd hadoop
+   95  curl -O http://apache.javapipe.com/hadoop/common/hadoop-2.7.2/hadoop-2.7.2.tar.gz
+   96  tar xfz hadoop-2.7.2.tar.gz
+   97  ll
+   98  gunzip hadoop-2.7.2.tar.gz 
+   99  tar -zxvf hadoop-2.7.2.tar.gz
+  100  ll
+  101  cd ,,
+  102  cd ..
+  103  ll
+  104  rm -vf hadoop
+  105  rm -rvf hadoop
+  106  ll
+  107  vim historycopy.sh 
+  108  vim gitcommit.sh 
+  109  ./gitcommit.sh 
