@@ -1,0 +1,14 @@
+[_local]
+name=Automatic local repo. (manged by the "local" yum plugin).
+baseurl=file:/var/lib/yum/plugins/local
+enabled=1
+gpgcheck=true
+#  Metadata expire could be set to "never" because the local plugin will
+# automatically cause a cache refresh when new packages are added. However
+# it's really cheap to check, and this way people can dump stuff in whenever
+# and it never gets out of sync. for long.
+metadata_expire=1h
+#  Make cost smaller, as we know it's "local". If you really want to be sure,
+# you can do this ... but the name will do pretty much the same thing, and that
+# way we can also see the other packages (with: --showduplicates list).
+# cost=500

@@ -1407,3 +1407,62 @@
    27  lsblk
    28  blkid
    29  ./gitcommit.sh 
+    1  ls -la
+    2  cd amit1/
+    3  ls -la
+    4  ./manupdate.sh 
+    5  yum search stratis
+    6  yum search vdo
+    7  yum install vdo -y
+    8  yum search all stratis
+    9  yum install awscli -y
+   10  yum install stratis* -y
+   11  yum search *cli*
+   12  yum search *-cli*
+   13  useradd amitamit
+   14  passwd amitamit
+   15  tail /etc/passwd
+   16  su - amitamit
+   17  ls -la
+   18  pwd
+   19  hostnamectl
+   20  hostnamectl set-hostname amit.lab.example.com
+   21  hostnamectl
+   22  nmtui
+   23* 
+   24  who
+   25  whoami
+   26  hostnamectl
+   27  lsblk
+   28  blkid
+   29  ./gitcommit.sh 
+   30  df
+   31  df -Th
+   32  route -n
+   33  ping google.com
+   34  ping6 google.com
+   35  ping 6 google.com
+   36  apropos -k partition
+   37  fdisk -l
+   38  yum search *utils*
+   39  yum install coreutils -y
+   40  yum search postscript
+   41  yum install postscript -y
+   42  yum install *postscript* -y
+   43  yum search *viewer*
+   44  yum install *viewer* -y
+   45  yum install evince -y
+   46  yum install *evince* -y
+   47  yum install vimtutor -y
+   48  yum install 
+   49  yum install *gcm* -y
+   50  yum install *gnome* -y
+   51  yum install *grops* -y
+   52  yum install *pango* -y
+   53  yum install *plugin* -y
+   54  ./manupdate.sh 
+   55  yum install *plugin* -y --skip-broken
+   56  vim manupdate.sh 
+   57  ./manupdate.sh 
+   58  vim manupdate.sh 
+   59  ./gitcommit.sh 
