@@ -1,5 +1,6 @@
 ./historycopy.sh
 history -c
+history -c
 history
 git pull
 git add .
