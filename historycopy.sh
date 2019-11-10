@@ -9,3 +9,9 @@ echo "COPY PROCESS COMPLETED"
 echo "REPOS COPYING --- COPY STARTED"
 yes | cp -rvf /etc/yum.repos.d/*.* /root/amit1/amit1/repos/
 echo "REPOS COPIED SUCCESSFULLY"
+history -c
+history
+history -c
+history -c
+history
+echo "HISTORY CLEANED SUCCESSFULLY"
