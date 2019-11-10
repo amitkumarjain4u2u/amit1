@@ -1378,3 +1378,32 @@
     2  history
     3  vim gitcommit.sh 
     4  ./gitcommit.sh 
+    1  ls -la
+    2  cd amit1/
+    3  ls -la
+    4  ./manupdate.sh 
+    5  yum search stratis
+    6  yum search vdo
+    7  yum install vdo -y
+    8  yum search all stratis
+    9  yum install awscli -y
+   10  yum install stratis* -y
+   11  yum search *cli*
+   12  yum search *-cli*
+   13  useradd amitamit
+   14  passwd amitamit
+   15  tail /etc/passwd
+   16  su - amitamit
+   17  ls -la
+   18  pwd
+   19  hostnamectl
+   20  hostnamectl set-hostname amit.lab.example.com
+   21  hostnamectl
+   22  nmtui
+   23* 
+   24  who
+   25  whoami
+   26  hostnamectl
+   27  lsblk
+   28  blkid
+   29  ./gitcommit.sh 
