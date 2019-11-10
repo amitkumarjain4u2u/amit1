@@ -1836,3 +1836,37 @@
     3  ./historycopy.sh 
     1  history
     2  ./gitcommit.sh 
+    1  history
+    2  ./gitcommit.sh 
+    3  vim historycopy.sh 
+    4  ./historycopy.sh 
+    1  history
+    2  ./gitcommit.sh 
+    3  vim historycopy.sh 
+    4  ./historycopy.sh 
+    1  history
+    2  ./gitcommit.sh 
+    3  vim historycopy.sh 
+    4  ./historycopy.sh 
+    5  history
+    6  vim historycopy.sh 
+    7  export HISTCONTROL=ignorespace
+    8  cat /.bash_history
+    9  cat ~/.bash_history
+   10  cat ~/.bash_history
+   11  history
+   12  pwd
+   13  ./gitcommit.sh 
+    1  history
+    2  ./gitcommit.sh 
+    3  vim historycopy.sh 
+    4  ./historycopy.sh 
+    5  history
+    6  vim historycopy.sh 
+    7  export HISTCONTROL=ignorespace
+    8  cat /.bash_history
+    9  cat ~/.bash_history
+   10  cat ~/.bash_history
+   11  history
+   12  pwd
+   13  ./gitcommit.sh 
